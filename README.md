@@ -1,12 +1,11 @@
 ## About
+This simple project is just my practice about get public API with Ajax(vanilla JS).
 
-    This simple project is just my practice about get public API with Ajax(vanilla JS).
-    
-    [In this case i use public API from omdbapi, here's the link:] 
-    (http://www.omdbapi.com/)
+In this case i use public API from omdbapi, here's the [link to omdbapi](http://www.omdbapi.com/) 
 
-    [you can try the demo here:] 
-    (https://muhammadfadhil10.github.io/asynchronous-callback-ajax-vanilla-practice/)
+
+you can try the demo [here](https://muhammadfadhil10.github.io/asynchronous-callback-ajax-vanilla-practice/) 
+
 
 
 
